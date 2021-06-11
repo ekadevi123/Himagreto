@@ -39,3 +39,9 @@
   * Tech Stack
     - Version Control dan Collaboration Platform : Github
     - Teknologi : Java, xml
+    
+-Hasil dan Pembahasan
+  * Use Case Diagram
+  ![use case-Use case](https://user-images.githubusercontent.com/76806311/121613933-cc2f9c00-ca87-11eb-8c2a-e48937437bad.png)
+
+  
